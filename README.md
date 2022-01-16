@@ -53,7 +53,6 @@ QR_Decomposition(a)
 ~~~
 
 ## Output
-![GitHub Logo](qr1.png)
-![GitHub Logo](qr2.png)
+![GitHub Logo](QR.png)
 ## Result
 Thus the QR decomposition algorithm using the Gram-Schmidt process is written and verified the result.
